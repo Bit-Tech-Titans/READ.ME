@@ -12,7 +12,6 @@ Lucas Henrique - RA 32228309
 
 Carlos Caíque Silvestre Moreno - RA 12523219226
 
-# LEIA-ME 
 # Projeto de Treinamento em Gestão e Qualidade de Software
 
 Objetivo do Projeto
