@@ -31,3 +31,13 @@ Este projeto pode servir como base para futuras melhorias e expansões. Encoraja
 
 Considerações Finais
 O desenvolvimento deste sistema CRUD seguindo o padrão MVC proporcionará uma experiência prática valiosa em Gestão e Qualidade de Software. Lembre-se de que a qualidade do código e a documentação são essenciais para o sucesso do projeto. Boa sorte e aproveite esta oportunidade de aprendizado!
+
+# Ferramentas
+Ferramentas utilizadas no projeto:
+
+[MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
