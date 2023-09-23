@@ -1,3 +1,17 @@
+# Autores
+
+Jean Carlos Oliveira da Silva - RA 32210226
+
+Sâmeck Zanela Costa - RA 322212223
+
+Gabriel Henrique de Oliveira Moura - RA 322115099
+
+Almo Contim - RA 322118509
+
+Lucas Henrique - RA 32228309
+
+Carlos Caíque Silvestre Moreno - RA 12523219226
+
 # LEIA-ME 
 # Projeto de Treinamento em Gestão e Qualidade de Software
 
