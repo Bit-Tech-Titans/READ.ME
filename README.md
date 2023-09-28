@@ -1,5 +1,5 @@
 # Nome do Projeto: 
-Web Commerce
+<p align="center">Web Commerce</p>
 
 ## Descrição do Projeto:
 <p align="center">Desenvolvimento de um sistema de gerenciamento de cadastros de Pessoa Física e Pessoa Jurídica, fundamental para o funcionamento do nosso Web Commerce. Este sistema permite aos vendedores realizar operações de CRUD (Create, Read, Update, Delete) por meio de consultas SQL, simplificando a inserção, leitura, atualização e exclusão de registros.
