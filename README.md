@@ -2,9 +2,9 @@
 <p align="center">Web Commerce</p>
 
 ## Descrição do Projeto:
-<p align="center">Desenvolvimento de um sistema de gerenciamento de cadastros de Pessoa Física e Pessoa Jurídica, fundamental para o funcionamento do nosso Web Commerce. Este sistema permite aos vendedores realizar operações de CRUD (Create, Read, Update, Delete) por meio de consultas SQL, simplificando a inserção, leitura, atualização e exclusão de registros.
+<p align="center">Desenvolvimento de um sistema de gerenciamento de cadastros de Pessoa Física e Pessoa Jurídica, fundamental para o funcionamento do nosso Web Commerce. Este sistema permite aos vendedores realizar operações de CRUD (Create, Read, Update, Delete) por meio de consultas SQL, simplificando a inserção, leitura, atualização e exclusão de registros.</p>
 
-Os vendedores terão a capacidade de cadastrar seus produtos para venda, especificando detalhes como quantidade em estoque e preços unitários. Para garantir a eficiência do sistema, o SQL será empregado para a manipulação dos dados, enquanto o CRUD facilitará a gestão desses registros, tornando o processo de cadastro, consulta, atualização e exclusão de itens rápido e intuitivo.</p>
+<p align="center">Os vendedores terão a capacidade de cadastrar seus produtos para venda, especificando detalhes como quantidade em estoque e preços unitários. Para garantir a eficiência do sistema, o SQL será empregado para a manipulação dos dados, enquanto o CRUD facilitará a gestão desses registros, tornando o processo de cadastro, consulta, atualização e exclusão de itens rápido e intuitivo.</p>
 
 Tabela de conteúdos
 =================
