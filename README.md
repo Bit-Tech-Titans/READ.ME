@@ -17,8 +17,8 @@ Tabela de conteúdos
 </h4>
 
 ### Pré-requisitos
-<h4 align="center"> 
-	🚧 🚀 Em desenvolvimento...  🚧
+<h4> 
+	🚧 🚀 Pré-requisitos em desenvolvimento...  🚧
 </h4>
 
 ### 🛠 Tecnologias
