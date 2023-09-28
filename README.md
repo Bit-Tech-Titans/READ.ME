@@ -1,8 +1,10 @@
 # Nome do Projeto: 
-Treinamento em Gestão e Qualidade de Software
+Web Commerce
 
 ## Descrição do Projeto:
-<p align="center"> O objetivo deste projeto é proporcionar aos participantes a oportunidade de treinar e aprimorar seus conhecimentos em Gestão e Qualidade de Software. Para isso, cada grupo deverá implementar um pequeno sistema CRUD (Create, Read, Update, Delete) seguindo o padrão de arquitetura MVC (Model-View-Controller). O sistema deve incluir no mínimo 10 classes e interagir com um banco de dados.</p>
+<p align="center">Desenvolvimento de um sistema de gerenciamento de cadastros de Pessoa Física e Pessoa Jurídica, fundamental para o funcionamento do nosso Web Commerce. Este sistema permite aos vendedores realizar operações de CRUD (Create, Read, Update, Delete) por meio de consultas SQL, simplificando a inserção, leitura, atualização e exclusão de registros.
+
+Os vendedores terão a capacidade de cadastrar seus produtos para venda, especificando detalhes como quantidade em estoque e preços unitários. Para garantir a eficiência do sistema, o SQL será empregado para a manipulação dos dados, enquanto o CRUD facilitará a gestão desses registros, tornando o processo de cadastro, consulta, atualização e exclusão de itens rápido e intuitivo.</p>
 
 Tabela de conteúdos
 =================
