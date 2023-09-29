@@ -47,4 +47,6 @@ Lucas Henrique - RA 32228309
 
 Carlos Caíque Silvestre Moreno - RA 12523219226
 
+Augusto Inácio Nascimento Gomes - RA 323221638
+
 
