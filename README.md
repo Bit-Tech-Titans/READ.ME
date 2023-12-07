@@ -14,14 +14,6 @@ Tabela de conteúdos
    * [Entrega 4 -  Implementação do projeto](https://github.com/Bit-Tech-Titans/Entrega-4-Implementacao-do-Projeto)
    * [Entrega 5 - Apresentação](https://github.com/Bit-Tech-Titans/Entrega-5-Apresentacao)
 
-<h4 align="center"> 
-	🚧 🚀 Tabela em constante processo de melhoria  🚧
-</h4>
-
-### Pré-requisitos
-<h4> 
-	🚧 🚀 Pré-requisitos em desenvolvimento...  🚧
-</h4>
 
 ### 🛠 Tecnologias
 
